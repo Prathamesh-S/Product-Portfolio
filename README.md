@@ -28,6 +28,16 @@ I took Parky from JTBD and MVP definition through requirements, prioritisation, 
 
 **Evidence:** [Parky public product portfolio](https://github.com/Prathamesh-S/Parky-Product-Portfolio)
 
+### Smart Route Share — Concept Originator & Product Decision Owner
+
+A conceptual shared-ride enhancement exploring a clearer trade-off between savings and predicted additional travel time. The original rider chooses a time tolerance; one solo co-rider with the same destination can join only after both riders accept. Fare savings activate at verified pickup, and a no-show preserves the original fare.
+
+I originated the proposed changes and owned the product decisions. AI assisted with structuring documentation and implementing the mocked interactive prototype. Dynamic matching already exists; this project explores rider control and predictability rather than claiming a novel matching invention.
+
+**Explore:** [Case study](projects/smart-route-share/Case_Study.md) · [Prototype and instructions](projects/smart-route-share/README.md) · [Standalone HTML — download and open](projects/smart-route-share/Smart-Route-Share.html)
+
+**Status:** Interactive conceptual prototype; usability testing pending. All fares, routes and timings are illustrative. No live integrations, validated economics or measured user/business outcomes are claimed. The revised-delay consent policy is documented but not implemented.
+
 ## How I work
 
 | Capability | Evidence from the products |
